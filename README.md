@@ -1,5 +1,7 @@
 # AI-Learns-to-play-Snake
 
+https://github.com/user-attachments/assets/445bf7de-67bb-4466-b9e0-1c66973ec9b1
+
 Welcome to Episode 1 of my brand-new series: AI Learns to Play Classic Games! 🚀
 In this series, we train AI agents using Machine Learning & Reinforcement Learning to master some of our favorite childhood games like Snake, Flappy Bird, Tetris, Pong, and Chrome Dino.
 
@@ -24,3 +26,6 @@ This content is Copyright to  ‪@SouvikChai‬   Any unauthorized reproduction,
 2024. All copyrights are reserved with  ‪@SouvikChai‬    
 
 ©️®️ Souvik Chai
+
+
+
